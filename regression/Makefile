@@ -17,7 +17,7 @@ TESTS=int32 int64 floats floats-basics floats-lit \
   sizeof1 sizeof2 binops bool for1 for2 switch switch2 compound \
   decl1 decl2 bitfields9 ptrs3 telescopes \
   parsing krfun ifconv generic dollars consteval \
-  stringlit charlit
+  stringlit charlit printf1
 
 # Can run, but only in compiled mode, and have reference output in Results
 
